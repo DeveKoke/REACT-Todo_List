@@ -1,0 +1,10 @@
+.liBut{
+    font-size: .6em;
+    margin-left: 15px;
+}
+.liBut:hover{
+    font-size: .6em;
+    background-color: orange;
+    border: 1.5px solid darkviolet;
+    color: darkviolet;
+}

@@ -1,0 +1,32 @@
+input{
+    margin-bottom: .7em;
+}
+input[type='text']{
+    background-color: rgb(186, 230, 255);
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+li{
+    list-style: square;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.2em;
+    margin-bottom: .8px;
+}
+li::marker{
+    color: yellow;
+}
+button{
+    margin: .5em;
+}
+button[type='submit']{
+    border: solid 2px yellow;
+}
+#clear{
+    border: solid 2px rgb(255, 0, 0);
+}
+#reset{
+    border: solid 2px rgb(0, 255, 13);
+}

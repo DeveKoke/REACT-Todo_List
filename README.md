@@ -15,5 +15,7 @@ TODO List realizada con REACT. Con el uso de los HOOKS useState y useEffect impl
 ![Alt text](REACT-ToDo_List/src/assets/CapturaREADME3.PNG)
 
 -Cada tarea añadida a lista, tiene, junto al texto, un botón de borrar tarea.
+
 -Botón de borrar lista. Cuando se hace click, se borran todas las tareas agregadas hasta el momento.
+
 -Botón de reseteo. Resetea la lista tal y como estaba antes de la ultima interacción (se haya añadido o borrado)

@@ -3,6 +3,7 @@ input{
 }
 input[type='text']{
     background-color: rgb(186, 230, 255);
+    color: rgb(4, 106, 4);
 }
 ul{
     display: flex;
@@ -29,4 +30,12 @@ button[type='submit']{
 }
 #reset{
     border: solid 2px rgb(0, 255, 13);
+}
+.taskmessage{
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px solid rgb(208, 147, 33);
+    width: 45%;
+    margin: 7px auto;
+    border-radius: 6px;
 }
